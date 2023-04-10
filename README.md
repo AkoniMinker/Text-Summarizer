@@ -53,6 +53,6 @@ Text Summarizer is a simple Python application that uses the SpaCy library and t
 
 Run the Text Summarizer application:
 
-python text_summarizer.py
+Download the .exe file (64,404 KB) here >> https://drive.google.com/file/d/1fQkApOyaqBWbEaeFfruhE1ZkIr696Dj7/view?usp=sharing
 
 A graphical interface will appear. Enter the text you would like to summarize and the desired number of sentences for the summary. Then, click the "Summarize" button to generate the summary.
