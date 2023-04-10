@@ -55,4 +55,4 @@ Run the Text Summarizer application:
 
 Download the .exe file (64,404 KB) here >> https://drive.google.com/file/d/1fQkApOyaqBWbEaeFfruhE1ZkIr696Dj7/view?usp=sharing
 
-A graphical interface will appear. Enter the text you would like to summarize and the desired number of sentences for the summary. Then, click the "Summarize" button to generate the summary.
+A graphical interface will appear. Enter the text you would like to summarize and the desired number of sentences for the summary. Then, click the "Summarize" button to generate the summary. If you're weary of downloading a file, you can copy the text_summarizer.py file and replace line 187 with `interactive_mode()` (no hashtag) and run a version of the program in the terminal.
